@@ -1,3 +1,19 @@
 * {
 	text-align: center;
 }
+
+h1 {
+	color: #42d4f4;
+}
+
+h2 {
+	color: red;
+}
+
+body {
+	background-image: url(http://bgfons.com/uploads/lines/lines_texture1095.jpg);
+}
+
+img {
+	Height:75%; Width:75%;
+}
